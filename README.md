@@ -1,5 +1,5 @@
-<h2 style= "red">&lt;p&gt;('Hello, I'm Helena Gomes!')&lt;/p&gt;
-<div>
+<h2 style= "red">&lt;p&gt;('Hello, I'm Helena Gomes!')&lt;/p&gt;</h2>
+<div><br>
 - Student of Software Development at SENAI Itajaí/SC.
 </br>
 - <a href="https://instagram.com/helenagomes36">Helena Gomes</a> in all socials 
@@ -26,7 +26,7 @@
 <div align="center">
   <a href="https://github.com/lenagomesz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenagomesz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenagomesz&layout=compact&langs_count=7&theme=dark"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenagomesz&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 
 
