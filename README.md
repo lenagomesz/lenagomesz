@@ -1,6 +1,7 @@
 <h2 style= "pink">('Hello, I'm Helena!')</h2>
 <div><br>
-- Software Engineer in training.
+- Software Engineer in training
+  <br><br>
   <br>
 <div> 
   <a href="https://instagram.com/helenagomes36" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,6 +24,6 @@
 <br>
 <div align="center">
   <a href="https://github.com/lenagomesz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenagomesz&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenagomesz&show_icons=true&theme=midnight-pink"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenagomesz&layout=compact&langs_count=7&theme=dark"/>
 </div>
