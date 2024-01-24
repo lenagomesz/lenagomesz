@@ -24,6 +24,6 @@
 <br>
 <div align="center">
   <a href="https://github.com/lenagomesz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenagomesz&show_icons=true&theme=midnight-pink"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenagomesz&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lenagomesz&show_icons=true&theme=aura_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenagomesz&layout=compact&langs_count=7&theme=dark"/>
 </div>
