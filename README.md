@@ -1,6 +1,6 @@
-<h2 style= "red">&lt;p&gt;("Hello, I'm Helena Gomes!")&lt;/p&gt;</h2>
+<h2 style= "pink">('Hello, I'm Helena!')</h2>
 <div><br>
-- Student of Software Development.
+- Software Engineer in training.
   <br>
 <div> 
   <a href="https://instagram.com/helenagomes36" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
