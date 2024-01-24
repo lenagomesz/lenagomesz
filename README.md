@@ -1,6 +1,6 @@
 <h2 style= "pink">('Hello, I'm Helena!')</h2>
 <div><br>
-- Software Engineer in training
+Software Engineer in training
   <br><br>
   <br>
 <div> 
